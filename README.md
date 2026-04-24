@@ -1,1 +1,2 @@
-# StraightUp_Hackathon
+# Hackathon
+
